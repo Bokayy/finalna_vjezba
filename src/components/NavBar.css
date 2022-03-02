@@ -1,0 +1,33 @@
+*{
+    font-size: 1rem;
+}
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    max-height: 10rem;
+    padding: 3rem;
+}
+
+.logo{
+    flex-basis: 16.6%
+}
+
+img{
+    max-height: 2rem;
+}
+
+.menu-btn{
+    display: none;
+}
+
+.menu{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
+ul > li{
+    margin: 1rem;
+}
+
