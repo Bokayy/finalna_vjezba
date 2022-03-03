@@ -11,7 +11,7 @@ function main1({image}) {
             <span>
               Lorem ipsum 
             </span>
-            &nbsp; para bonum
+            &nbsp;para bonum
           </p>
           <p class = "secondp">
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
