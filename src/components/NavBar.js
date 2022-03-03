@@ -24,11 +24,11 @@ function NavBar() {
                 <span className="nav-icon"></span>
             </label>
             <ul className="menu">
-                <li><a href ="#" className="active">HOME</a></li>
-                <li><a href ="#" className="active">FEATURES</a></li>
-                <li><a href ="#" className="active">ABOUT</a></li>
-                <li><a href ="#" className="active">UI SS</a></li>
-                <li><a href ="#" className="active">DOWNLOAD</a></li>
+                <li id="nav-button" className="active"><a href ="#" >HOME</a></li>
+                <li id="nav-button"><a href ="#">FEATURES</a></li>
+                <li id="nav-button"><a href ="#">ABOUT</a></li>
+                <li id="nav-button"><a href ="#">UI SS</a></li>
+                <li id="nav-button"><a href ="#">DOWNLOAD</a></li>
             </ul>
         </nav>
     )

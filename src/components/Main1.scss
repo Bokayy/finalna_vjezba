@@ -1,0 +1,36 @@
+main{
+    height:100vh;
+    display:flex;
+
+    img {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+    }
+
+    div{
+        z-index:2;
+        width: 50%;
+
+        .secondp{
+            color: grey;
+            font-size: 1.5rem;
+            margin: 1rem 1rem 1rem 32rem;
+        }
+    }
+
+    p{
+        color: black;
+        font-size: 5rem;
+        margin: 32rem 1rem 1rem 31rem;
+
+        span {
+            color: rgb(3, 175, 233);
+            font-size: 5rem;
+        }
+    }
+
+    button{
+        font-size:3rem;
+    }
+}
